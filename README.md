@@ -8,7 +8,7 @@ Access the result here: https://introsectionfrontendmentor.netlify.app/
 And please, all suggestions or feedbacks are welcome!
 
 
-Folder Structure
+Folder Structure:
 
 ⚫ design (the model images from Frontend Mentor)
 
