@@ -16,7 +16,7 @@ Folder Structure:
 
 ⚫ index.html (the HTML content)
 
-⚫ script,js (the JavaScript code)
+⚫ script.js (the JavaScript code)
 
 ⚫ style-guide.md (the design specifications to follow)
 
